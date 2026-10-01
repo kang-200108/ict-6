@@ -1,1 +1,2 @@
 this is my first git experiment.
+Git is used for version control.
